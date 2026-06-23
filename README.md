@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/misterio-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Misterio de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-de-fuego/) |
+| **Get License** | [Obtain a Music License for Misterio de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus ojos guardan un misterio de fuego
+> Me acerco lento, mami, yo no juego
+> Siento el calor, la noche nos llama
+> Bailando en la sombra hasta la mañana
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
